@@ -12,7 +12,7 @@ const catImg = document.getElementById("letter-cat");
 const buttons = document.getElementById("letter-buttons");
 const finalText = document.getElementById("final-text");
 
-const loveMessageText = "Every moment with you makes my heart skip a beat. You bring light and laughter into my world, and I can't imagine a future without you in it.";
+const loveMessageText = "Reconnecting with you late last year was one of my highlights of 2025. You brought a lot of laughter with that reconnection 😅. I’m really looking forward to seeing you on Valentine’s Day.";
 
 // Click Envelope - Open to paper note
 
